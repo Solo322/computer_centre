@@ -1,0 +1,44 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+.color_element {
+  color: #375877; }
+
+.color_bg {
+  background-color: #375877; }
+
+.color_border {
+  border-color: #375877; }
+
+.light_bg {
+  background-color: #FAFAFA;
+  color: #333; }
+
+.dark_bg {
+  background-color: #222;
+  color: #fff; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.toggle_menu {
+  background-color: #222; }
+
+.top_menu a:hover {
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.5);
+  -moz-transition: 0.33s ease;
+  -o-transition: 0.33s ease;
+  -webkit-transition: 0.33s ease;
+  transition: 0.33s ease; }
+.top_menu a {
+  letter-spacing: 6px; }
+
+.s_descr {
+  letter-spacing: 3px; }
+
+.c_footer {
+  color: #666; }
+
+/*# sourceMappingURL=tomato.css.map */
